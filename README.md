@@ -54,7 +54,7 @@ Created an employee salary dashboard containing:
 
 ## Power BI Dashboard Preview
 
-![Employee Salary Analysis Dashboard](Employee_Salary_Dashboard.png)
+![Employee_Salary_Dashboard.jpg](Employee_Salary_Dashboard.jpg)
 
 ## Key Learning Outcomes
 
